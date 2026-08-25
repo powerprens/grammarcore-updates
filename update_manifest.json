@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "version_code": 8,
-  "apk_url": "https://github.com/powerprens/grammarcore-updates/releases/download/v1.5.1/app-release.apk",
-  "notes": "- Güncelleme kurulamama hatası giderildi: kurulum penceresi artık doğru açılıyor, hata olursa gerçek nedeni gösteriliyor\n- ÖNEMLİ: Bu sürümü bir kez elle kurmanız gerekiyor (telefonunuzun tarayıcısıyla release sayfasındaki APK'yı indirip kurun). Bundan sonraki güncellemeler uygulama içinden sorunsuz kurulacak"
+  "version": "1.5.2",
+  "version_code": 9,
+  "apk_url": "https://github.com/powerprens/grammarcore-updates/releases/download/v1.5.2/app-release.apk",
+  "notes": "- Yeni: güncelleme kurulduktan sonra uygulama açılışında \"🎉 Güncelleme tamamlandı\" teyidi gösteriliyor\n- Bu sürüm, uygulama içi güncelleme akışının ilk gerçek testidir: İndir'e basın, kurulum penceresi açılsın, Yükle deyin — kurulum bitince uygulamayı açtığınızda teyit mesajını görmelisiniz"
 }
