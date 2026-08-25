@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "version_code": 6,
-  "apk_url": "https://github.com/powerprens/grammarcore-updates/releases/download/v1.4.1/app-release.apk",
-  "notes": "- Kritik OTA düzeltmesi: manifest artık telefonda doğru okunuyor\n- \"Son Sürüm Notları\" butonu eklendi (bağlantı testi)\n- Güncelleme kontrolü hataları artık gerçek nedeniyle gösteriliyor"
+  "version": "1.5.0",
+  "version_code": 7,
+  "apk_url": "https://github.com/powerprens/grammarcore-updates/releases/download/v1.5.0/app-release.apk",
+  "notes": "- \"Sonra\" hatırlama: güncelleme penceresinde \"Sonra\" dersen o sürüm bir daha açılışta sorulmaz, yeni sürüm gelince tekrar bildirilir\n- Ayarlar → Güncelleme'den manuel kontrol her zaman yeni sürümü gösterir"
 }
