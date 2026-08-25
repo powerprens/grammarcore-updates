@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "version_code": 2,
+  "apk_url": "https://github.com/powerprens/grammarcore-updates/releases/download/v1.1.0/app-release.apk",
+  "notes": "- Otomatik güncelleme: varsayılan manifest adresi gömüldü, artık elle URL girmeye gerek yok\n- Açılışta otomatik sürüm kontrolü"
+}
